@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./deskstop.jpg)
-![](./mobile.jpg)
+[Desktop Screenshot](./desktop.jpg)
+[Mobile Screenshot](./mobile.jpg)
 
 
 ### Links
@@ -49,7 +49,7 @@ I certainly would continue to explore Tailwindcss more and possible adopt it for
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS) - I used it as reference to understand the CSS principles behind Tailwindcss
+- [Resource](https://developer.mozilla.org/en-US/docs/Web/CSS) - I used it as reference to understand the CSS principles behind Tailwindcss
 
 
 ## Author
