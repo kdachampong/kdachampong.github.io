@@ -346,6 +346,9 @@
   .pb-1\.5 {
     padding-bottom: calc(var(--spacing) * 1.5);
   }
+  .pb-1\.25 {
+    padding-bottom: calc(var(--spacing) * 1.25);
+  }
   .text-center {
     text-align: center;
   }
@@ -389,6 +392,18 @@
   .leading-5\.5 {
     --tw-leading: calc(var(--spacing) * 5.5);
     line-height: calc(var(--spacing) * 5.5);
+  }
+  .leading-5\.75 {
+    --tw-leading: calc(var(--spacing) * 5.75);
+    line-height: calc(var(--spacing) * 5.75);
+  }
+  .leading-6 {
+    --tw-leading: calc(var(--spacing) * 6);
+    line-height: calc(var(--spacing) * 6);
+  }
+  .leading-6\.5 {
+    --tw-leading: calc(var(--spacing) * 6.5);
+    line-height: calc(var(--spacing) * 6.5);
   }
   .font-bold {
     --tw-font-weight: var(--font-weight-bold);
