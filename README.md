@@ -41,7 +41,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-It's my first time using Tailwindcss. I gave me a new perspective on styling and a further understanding of some CSS concepts like Flexbox.
+It's my first time using Tailwindcss. It gave me a new perspective on styling and a further understanding of some CSS concepts like Flexbox.
 
 ### Continued development
 
@@ -49,7 +49,9 @@ I certainly would continue to explore Tailwindcss more and possible adopt it for
 
 ### Useful resources
 
-- [Resource](https://developer.mozilla.org/en-US/docs/Web/CSS) - I used it as reference to understand the CSS principles behind Tailwindcss
+- [https://tailwindcss.com/docs/styling-with-utility-classes](https://tailwindcss.com/docs/styling-with-utility-classes) - I learnt the basics of Tailwindcss from the official documentation.
+- [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - 
+I used it as reference to understand the CSS principles behind Tailwindcss.
 
 
 ## Author
